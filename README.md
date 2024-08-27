@@ -1,5 +1,8 @@
 # Speech2Speech Agent Implementation
 
+**Video Demo:**
+[Link to the Video](https://drive.google.com/file/d/1ymxYmA2lvG2fvs3zlgKa4WgLlf9dtXSA/view?usp=sharing)
+
 ### Solution Overview:
 
 The solution implements a Speech-to-Speech pipeline, converting an audio input into synthesized speech output using a series of models and libraries. The pipeline processes audio input by first detecting voice activity, transcribing speech to text, generating a text-based response using a language model, and finally converting the text back into speech.
